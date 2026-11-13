@@ -27,4 +27,3 @@ jobs:
 
       - name: Run Container
         run: docker run -d --name container webinar
-```
